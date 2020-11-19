@@ -5,4 +5,5 @@
 -->
 - 💬  Drupal enthousiast
 - 📫  How to reach me: [Twitter](https://twitter.com/frederikvho)
-- 😄 
+- 🤓  Github: [https://github.com/frederikvho](https://github.com/frederikvho)
+- 💧 Drupal.org: [https://github.com/frederikvho](https://www.drupal.org/u/frederikvho)
